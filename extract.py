@@ -160,7 +160,7 @@ def thread_write():
 		
 if __name__ == '__main__':
 	city_name='厦门'
-	outdir = 'D:/jobs/聚光科技/谱育科技/202209/数据爬取'
+	outdir = './数据爬取'
 	air_site = '3270A'
 	starttime = '20220902'
 	endtime = '20220909'
